@@ -1,7 +1,9 @@
 .movies {
     color: #e2725b;
+    font-family: "Book Antiqua"
 }
 h3 {
+    text-decoration: underline;
     text-align: center;
     font-size: 30px;
 }

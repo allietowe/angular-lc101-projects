@@ -1,5 +1,8 @@
 h3 {
    color: brown;
+   border-style: solid;
+   border-color: brown;
+   font-size: 30px;
 }
 
 img {
